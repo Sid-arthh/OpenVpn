@@ -55,9 +55,9 @@ cd custom_folders
 
 mv temp_output_file  ../client_conf.ovpn
 cd ..
-cd ..
-sudo rm -rf easy-rsa
 sudo rm -rf custom_folders
+sudo rm -rf easy-rsa
+
 
 # Clean up temporary files and folders
 
